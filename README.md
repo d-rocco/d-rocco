@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/OQsa4Yca9BJFS/giphy.gif" height="225px">
+  <img src="https://media.giphy.com/media/OQsa4Yca9BJFS/giphy.gif" height="225px" alt="Rocko's Modern Life knowledge">
 
 ### Hey, I'm Rocco!
 ---
