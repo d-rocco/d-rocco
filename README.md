@@ -7,4 +7,4 @@
 
 I'm a recent Computer Science graduate from the University of Florida who is passionate about the philosophy of always improving the skills needed for software development, determined to learn and grow as a professional and person.
 
-Currently in the process of development the skills needed for full stack development.
+Currently in the process of making some fun personal projects!
