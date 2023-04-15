@@ -5,6 +5,6 @@
 ---
 </div>
 
-I'm a recent computer science graduate passionate about the philosophy of always improving the skills needed for software development, and I've acquired essential computer science and programming fundamentals from my time at the University of Florida. Relevant coursework includes Data Structures/Algorithms, Computer Networks, Databases, and Operating Systems. I'm a determined individual eager to learn and grow as a professional and person.
+I'm a recent Computer Science graduate passionate about always improving my skills for software development. I've acquired essential computer science and programming fundamentals from the University of Florida, with relevant coursework including Data Structures/Algorithms, Computer Networks, Databases, and Operating Systems. I am determined to learn and grow as a professional and person.
 
 Currently in the process of making some fun personal projects!
